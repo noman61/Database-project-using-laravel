@@ -1,0 +1,23 @@
+.loginClass{
+
+   border-radius: 20px;
+	position: fixed;
+	top: 40%;
+	left: 28%;
+	margin-top: -50px;
+	margin-left: -100px;
+	background-color: white;
+	align-items: center;
+
+}
+.loginClass a:hover{
+	color: #18BC9C;
+	
+}
+.loginClass a{
+	padding-left: 3%;
+	color :#2C3E50;
+}
+
+
+
